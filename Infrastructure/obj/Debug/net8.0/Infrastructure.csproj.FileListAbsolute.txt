@@ -1,0 +1,15 @@
+D:\Ecommerce-Skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Ecommerce-Skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Ecommerce-Skinet\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Ecommerce-Skinet\Infrastructure\bin\Debug\net8.0\Core.dll
+D:\Ecommerce-Skinet\Infrastructure\bin\Debug\net8.0\Core.pdb
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Ecommerce-Skinet\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
