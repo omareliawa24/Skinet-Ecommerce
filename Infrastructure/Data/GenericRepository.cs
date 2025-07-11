@@ -67,4 +67,12 @@ public class GenericRepository<T>(StoreContext context) : IGenericRepository<T> 
         return await context.SaveChangesAsync() > 0;
     }
 
+    public async Task<int> CountAsync(ISpecification<T> spec)
+    {
+        var query = context.Set<T>().AsQueryable();
+
+        query = spec.ApplyCriteria(query);
+
+        return await query.CountAsync();
+    }
 }

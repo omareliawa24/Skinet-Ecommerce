@@ -15,9 +15,11 @@ public interface IGenericRepository<T> where T : BaseEntity
     bool Exists(int id);
     Task<IReadOnlyList<TResult>> ListAsync<TResult>(ISpecification<T, TResult> spec);
     Task<TResult?> GetEntityWithSpec<TResult>(ISpecification<T, TResult> spec);
-
     Task<T?> GetEntityWithSpec(ISpecification<T> spec);
     Task<IReadOnlyList<T>> ListAsync(ISpecification<T> spec);
+
+    Task<int> CountAsync(ISpecification<T>spec);
+
 
 
 }
