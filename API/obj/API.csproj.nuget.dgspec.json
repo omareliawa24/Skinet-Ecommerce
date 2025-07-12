@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ecommerce-Skinet\\api\\API.csproj": {}
+    "D:\\Ecommerce-Skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Ecommerce-Skinet\\api\\API.csproj": {
+    "D:\\Ecommerce-Skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ecommerce-Skinet\\api\\API.csproj",
+        "projectUniqueName": "D:\\Ecommerce-Skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Ecommerce-Skinet\\api\\API.csproj",
+        "projectPath": "D:\\Ecommerce-Skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\omare\\.nuget\\packages\\",
-        "outputPath": "D:\\Ecommerce-Skinet\\api\\obj\\",
+        "outputPath": "D:\\Ecommerce-Skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omare\\AppData\\Roaming\\NuGet\\NuGet.Config",
