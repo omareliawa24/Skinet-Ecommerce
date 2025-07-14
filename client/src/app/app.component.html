@@ -1,5 +1,16 @@
-<h1 class="text-3xl font-bold underline">👋 أهلاً وسهلاً بك في مشروع Angular يا عمر</h1>
+<app-header></app-header>
+<h1 class="text-3xl font-bold underline">
+  👋 أهلاً وسهلاً بك في مشروع Angular يا عمر
+</h1>
 
-<!-- <p>دي الصفحة الرئيسية اللي Angular بيرندرها.</p>
-
-<button (click)="sayHello()">اضغط هنا</button> -->
+<div class="container mt-6">
+  <h2 class="text-3xl font-bold underline">Welcome omar saeed</h2>
+ <ul class="space-y-2">
+    @for (product of products; track product.id) {
+      <li class="p-4 bg-gray-100 rounded shadow">
+        <span class="block font-bold text-lg">{{ product.name }}</span>
+        <p class="text-sm text-gray-600">hi pro</p>
+      </li>
+    }
+  </ul>
+</div>
